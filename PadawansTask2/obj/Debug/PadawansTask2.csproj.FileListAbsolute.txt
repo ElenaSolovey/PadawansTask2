@@ -1,0 +1,10 @@
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/obj/Debug/PadawansTask2.csprojAssemblyReference.cache
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/obj/Debug/PadawansTask2.csproj.CoreCompileInputs.cache
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/bin/Debug/PadawansTask2.dll
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/bin/Debug/PadawansTask2.pdb
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/bin/Debug/nunit.framework.dll
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/bin/Debug/nunit.framework.pdb
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/bin/Debug/nunit.framework.xml
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/obj/Debug/PadawansTask2.csproj.CopyComplete
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/obj/Debug/PadawansTask2.dll
+/Users/Alena/Documents/GitHub/PadawansTask2/PadawansTask2/obj/Debug/PadawansTask2.pdb
