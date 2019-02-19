@@ -4,7 +4,11 @@ namespace PadawansTask2
 {
     public static class ArithmeticSequence
     {
-        public static int Calculate(int number, int add, int count)
+        public static void Expression()
+        {
+            Console.Write("Erorr");
+        }
+        public static long Calculate(int number, int add, int count)
         {
           if(count< 1)
             {
@@ -13,8 +17,8 @@ namespace PadawansTask2
             int sum = 0;
             for (int i = 0; i < count; i++)
                 sum += number + i * add;
-        
-            return sum ;
+              
+            return (long)sum ;
         } }
 
 }
